@@ -1,2 +1,2 @@
 # CP-2019-Project
-Final project of the Computational Physics course at UPTC
+Final project of the 2019 Computational Physics course at UPTC
